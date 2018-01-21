@@ -1,3 +1,6 @@
 log.txt
 /dir2
+<<<<<<< HEAD
 *.txt
+=======
+>>>>>>> mybranch
